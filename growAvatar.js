@@ -15,7 +15,7 @@
   var _selfEntityID;
 
   // The scale to shrink to on click
-  var size = 10;
+  var size = 1;
 
   // A function that sets our avatar scale to the size specified in the 'size' variable
   function growAvatar() {
